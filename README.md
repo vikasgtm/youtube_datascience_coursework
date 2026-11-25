@@ -35,6 +35,7 @@ Regression, classification and ML projects.
 - Jupyter notebooks
 - Machine Learning projects
 
-  regards,
+###regards,
   Vikas Gautam
-  mail:vikasgtm@gmail.com
+###mail:vikasgtm@gmail.com
+ 
